@@ -1,2 +1,2 @@
-# discord-musicbot
-
+# music-bot-main
+a music bot
